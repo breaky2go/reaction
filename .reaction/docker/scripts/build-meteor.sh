@@ -20,6 +20,7 @@ bash $BUILD_SCRIPTS_DIR/plugin-loader.sh
 
 # Install app deps
 meteor npm install --production
+meteor npm install --save autoprefixer
 
 # build the source
 mkdir -p $APP_BUNDLE_DIR
