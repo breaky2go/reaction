@@ -1,0 +1,3 @@
+[submodule "imports/plugins/custom/b2g-terminal"]
+	path = imports/plugins/custom/b2g-terminal
+	url = https://github.com/breaky2go/b2g-terminal.git
